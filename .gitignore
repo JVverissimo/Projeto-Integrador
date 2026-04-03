@@ -1,5 +1,5 @@
 # Banco de dados (Exemplos: SQLite, dumps de SQL)
-*.sqlite3
+*.db.sqlite3
 *.db
 *.sql
 /db/

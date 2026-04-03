@@ -1,0 +1,19 @@
+# Banco de dados (Exemplos: SQLite, dumps de SQL)
+*.sqlite3
+*.db
+*.sql
+/db/
+
+# Variáveis de Ambiente (Segurança)
+.env
+.env.local
+.env.*
+
+# Ambiente Virtual (Python)
+venv/
+.vem/
+env/
+ENV/
+
+# Configurações do VS Code
+.vscode/
